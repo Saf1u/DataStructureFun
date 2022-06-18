@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/safwanahmed/CLionProjects/untitled7/Heap.cpp
+Heap.h
+/Users/safwanahmed/CLionProjects/untitled7/Heap.h
+
+/Users/safwanahmed/CLionProjects/untitled7/Heap.h
+vector
+-
+
+/Users/safwanahmed/CLionProjects/untitled7/main.cpp
+iostream
+-
+Heap.h
+/Users/safwanahmed/CLionProjects/untitled7/Heap.h
+
